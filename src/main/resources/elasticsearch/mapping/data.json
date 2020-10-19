@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "hash": {
+      "type": "keyword"
+    },
+    "subject": {
+      "type": "text"
+    },
+    "body": {
+      "type": "text"
+    },
+    "participants": {
+      "type": "keyword"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "properties": {
+    "hash": {
+      "type": "keyword"
+    },
+    "type": {
+      "type": "keyword"
+    },
+    "error": {
+      "type": "text"
+    }
+  }
+}
