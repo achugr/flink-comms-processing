@@ -69,7 +69,9 @@ to check overall job correctness.
  but still, the idea why this dataset is public is clear [Enron scandal](https://www.investopedia.com/updates/enron-scandal-summary/))
 
 ### Results
-Enron dataset (about 1.7G) can be processed locally in less than 10 minutes. It doesn't say much though )
+Enron dataset (about 1.7G unarchived) can be processed locally in less than 10 minutes. It doesn't say much though )
+![Archives bucket folder structure](https://user-images.githubusercontent.com/853775/96398094-02d34200-1199-11eb-9642-4372fc190982.png)
+![Indexed contents](https://user-images.githubusercontent.com/853775/96398097-05359c00-1199-11eb-937b-fbc3b65dbab5.png)
 
 ### Main outcomes
 Flink looks pretty good for such type of tasks, however the fact that events are of arbitrary size could bring complexities, but 
